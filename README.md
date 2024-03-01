@@ -1,4 +1,9 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
+ <img alt="Skill Issue" src="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
+</picture>
+
 
 <!--
 **masterd2003/masterd2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
