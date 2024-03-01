@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/1159411609744187412/1213201189802479656/a2697096401_65_-_kopie_1_1.jpg?ex=65f49ca7&is=65e227a7&hm=1e77398f013fd3c69d0638bd46b42558b0b950e557b916b33989bbae9300fcbc&">
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
  <img alt="Skill Issue" src="https://cdn.discordapp.com/attachments/1159411609744187412/1183127072684654683/F-EJv8cacAAcjJl.jpg?ex=65ecb773&is=65da4273&hm=c6d5e8043847b1331929583bee615ee14b201cec2cf23bf4785f0820b4d311ce&">
 </picture>
