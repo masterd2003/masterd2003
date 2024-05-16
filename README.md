@@ -6,7 +6,7 @@ I am a Competoeter Science student and I play videogames in my free time.
 
 ## Technical Arsenal
 
-- **Languages:** Python, Java
+- **Languages:** Python, Java, C
 - **Frameworks:** uuuuh..
 - **Tools:** Discord.py
 - **Skills:** I can do everything you know
